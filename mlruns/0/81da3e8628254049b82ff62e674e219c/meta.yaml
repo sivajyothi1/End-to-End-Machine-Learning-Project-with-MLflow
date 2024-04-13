@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/End-to-End-Machine-Learning-Project-with-MLflow/mlruns/0/81da3e8628254049b82ff62e674e219c/artifacts
+end_time: 1713025271152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81da3e8628254049b82ff62e674e219c
+run_name: placid-hawk-655
+run_uuid: 81da3e8628254049b82ff62e674e219c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713025238590
+status: 3
+tags: []
+user_id: kishore
